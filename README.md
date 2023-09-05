@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### 🙋 About me
+### 🙋‍♂️ About me
 
 ---
 
@@ -51,3 +51,4 @@
 
 <h3 align="center">Checkout some of my projects</h3>
 <h2 align="center">⬇️</h2>
+
