@@ -47,5 +47,7 @@
 
 - 🎉 **Fun Fact:** When I fall in love with something, I become its biggest ambassador! Lately, I've been enamored by the allure of functional programming in Scala. Nevertheless, always and forever, a Python aficionado 🐍.
 
+---
+
 <h3 align="center">Checkout some of my projects</h3>
 <h2 align="center">⬇️</h2>
