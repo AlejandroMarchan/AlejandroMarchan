@@ -3,7 +3,7 @@
    <h3 align="center">👋 Hi! I'm Alejandro Marchán 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm a <strong>Big Data Engineer</strong> with 4+ years of experience in the field.<br />Currently working at <a href="https://www.stratio.com/home" title="Go to Stratio BD home page">Stratio</a></p>
+<p align="center">I'm a <strong>Big Data Engineer</strong> with 4+ years of experience in the field.<br />Currently working at <a href="https://www.verisure.es/" title="Go to Verisure home page">Verisure</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-marchan-alvarez/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Icon" title="Visit my LinkedIn profile!"/>
